@@ -20,7 +20,7 @@ public class Calculator2 {
 
     public static float square(float num) {
         return num * num;
-    }
+     }
 
     public static float exponentia(float base, int exponent) {
         float result = 1;
